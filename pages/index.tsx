@@ -45,7 +45,7 @@ export default function Home() {
   return (
     <Layout>
       <Head>
-        <title>Yet Another Link Shortner</title>
+        <title>Yet Another Link Shortner!!!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Header>
